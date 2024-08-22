@@ -1,0 +1,3 @@
+Name: Aivan dave B. Rulida
+Course: IT20A
+Activity: Basics of git and github
